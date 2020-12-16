@@ -24,4 +24,10 @@ A reusable rocket launch mission can be broken down into the following critical 
 ![Adaptive Timestepping](Images/delt.gif)
 
 
+## Run Simulation
+
+```
+python3 project_Fehlberg.py
+```
+
 
