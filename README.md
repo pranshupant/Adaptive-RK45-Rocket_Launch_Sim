@@ -15,14 +15,13 @@ A reusable rocket launch mission can be broken down into the following critical 
 
 ## Simulation Results
 
-
-
-![Rocket Trajectorty](rkf.gif)
-
   - ### Trajectory of Rocket (Altitude v/s Time)
 
+![Rocket Trajectorty](Images/rkf.gif)
 
-![Adaptive Timesteping](delt.gif)
+  - ### Adaptive Time Stepping for RK45 (<img src="https://render.githubusercontent.com/render/math?math=\Delta t "> v/s Time)
 
-  - ### Adaptive Time Stepping for RK45 ($\Delta$ v/s Time)
+![Adaptive Timesteping](Images/delt.gif)
+
+
 
